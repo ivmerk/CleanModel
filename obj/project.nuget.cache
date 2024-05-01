@@ -1,8 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "vYHwEg5Y8BBE5kpbn+wMiWMf6v32H00DA1+uzcQ8xn0YsTxphyfBTXWLCAUhKOANDZzQmt+WnixbW1yvVnFnKg==",
+  "dgSpecHash": "vydzHNwpFGzB4ikkUXHOfJnW373ylv/KTjYUT15Wg6VGIVgkz5JTWZvZmd2ftxO13CQHpBjwq7fLn7BC0nbNRA==",
   "success": true,
   "projectFilePath": "/Users/ivanmerkulov/SynologyDrive/projects/CleanModel/CleanModel.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/ivanmerkulov/.nuget/packages/bogus/35.5.1/bogus.35.5.1.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/httpresultmonad/1.0.1/httpresultmonad.1.0.1.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/maybemonad/1.0.1.1/maybemonad.1.0.1.1.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/microsoft.entityframeworkcore/8.0.4/microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.4/microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.4/microsoft.entityframeworkcore.analyzers.8.0.4.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/microsoft.entityframeworkcore.inmemory/8.0.4/microsoft.entityframeworkcore.inmemory.8.0.4.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/ivanmerkulov/.nuget/packages/resultmonad/1.0.1/resultmonad.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
